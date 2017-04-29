@@ -24,3 +24,6 @@ Do not forget to add a semicolon at the end.
 \- delta.tm
 
 \- Library(Directory)   -   EmulateTM.hs
+
+
+英語わかんない...
