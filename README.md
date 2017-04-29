@@ -13,6 +13,7 @@ Write δ for each cases as below :
 (q, s) -> (q', s', s'');
 
 q, q' : State
+
 s : Tape symbol
 
 Do not forget to add a semicolon at the end.
@@ -23,4 +24,5 @@ Do not forget to add a semicolon at the end.
 \- delta.tm
 
 \- Library
-    \- EmulateTM.hs
+
+    \- EmulateTM.hs
