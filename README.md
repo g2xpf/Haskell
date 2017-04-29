@@ -21,5 +21,7 @@ Do not forget to add a semicolon at the end.
 \- TMInterpreter.hs
 
 \- delta.tm
+
 \- Library
+
     \- EmulateTM.hs
