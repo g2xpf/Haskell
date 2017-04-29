@@ -1,6 +1,8 @@
 # Haskell Tutorial
 These files are for **local** use.
 
+GHC Version : 8.0.1
+
 ## How To Use
 - You should compile the 'TMInterpreter.hs'.
 - Execute ./TMInterpreter, and type 'delta.tm'. You'll get a new file 'delta.hs'.
