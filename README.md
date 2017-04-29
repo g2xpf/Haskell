@@ -1,5 +1,5 @@
 # Haskell Tutorial
-These files are for local use.
+These files are for **local** use.
 
 ## How To Use
 - You should compile the 'TMInterpreter.hs'.
