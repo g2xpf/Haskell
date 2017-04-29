@@ -25,4 +25,4 @@ Do not forget to add a semicolon at the end.
 
 \- Library
 
-    \- EmulateTM.hs
+   \- EmulateTM.hs
